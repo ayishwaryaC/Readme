@@ -4,9 +4,9 @@
 
 📧 Email: ayishwaryac@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/ayishwaryac
+🔗 LinkedIn: https://www.linkedin.com/in/ayishwaryac/
 
-💻 GitHub: github.com/ayishwaryaC
+💻 GitHub: https://github.com/ayishwaryaC
 
 🌟 **About Me**
 
@@ -32,7 +32,7 @@ Intern - Front End Development – Seval Software Solutions (Jul 2023 – Aug 20
 
             Designed and implemented user interfaces for websites utilizing Canva, HTML5, and CSS3.
 
-🚀** Projects**
+🚀 **Projects**
 
 Registration Form
 
@@ -76,12 +76,13 @@ Frameworks: Git, GitHub, Bootstrap 5
 
 Design Tools: Figma (Basic)
 
-📩** Let’s Connect!**
+📩**Let’s Connect!**
+
 Let’s collaborate or chat!
 
-💼 LinkedIn: linkedin.com/in/ayishwaryac
+💼 LinkedIn: https://www.linkedin.com/in/ayishwaryac/  
 
-📧 Email: ayishwaryac@gmail.com
+📧 Email: ayishwaryac@gmail.com 
 
 I’m always excited to collaborate and create impactful web solutions. Let’s bring ideas to life!
 
