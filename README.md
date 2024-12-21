@@ -15,6 +15,7 @@ I am a passionate Web Developer with expertise in front-end and back-end develop
 🎓 Education
 
 Loyola Institute of Technology, Chennai (2021–2025) Bachelor of Technology (IT) – Grade: 8/10
+
 Dr. Vimala Convent Matriculation Hr. Sec. School, Chennai (2020–2021)  12th Grade – Grade: 85%
 
 
