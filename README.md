@@ -75,7 +75,7 @@ Let’s collaborate or chat!
 
 💼 LinkedIn: https://www.linkedin.com/in/ayishwaryac/ 
 
-📧 Email: ayishwaryac@@gmail.com
+📧 Email: ayishwaryac@gmail.com
 
 I’m always excited to collaborate and create impactful web solutions. Let’s bring ideas to life!
 
