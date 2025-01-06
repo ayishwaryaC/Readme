@@ -34,12 +34,6 @@ Intern - Front End Development – Seval Software Solutions (Jul 2023 – Aug 20
 
 🚀 **Projects**
 
-Registration Form
-
-           Developed a registration form website using HTML, CSS, and JavaScript.
-           Ensured a seamless experience across multiple devices.
-           Focused on user-friendly design and interactive features.
-
 Spices Treasures
 
            Created a simple e-commerce website using HTML, CSS, and Bootstrap.
